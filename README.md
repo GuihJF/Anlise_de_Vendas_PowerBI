@@ -40,18 +40,22 @@ This project helped me consolidate key concepts in data modeling and preparation
 
 ---
 
-📁 Project Files
-Dashboard_Vendas.pbix – Complete Power BI dashboard with KPIs, filters, and visual insights
+📁 Project Files:
 
-images/ – Folder containing a high-resolution preview of the dashboard
+Dashboard_Vendas.pbix – Complete Power BI dashboard with KPIs, filters, and visual insights  
+images/ – Folder containing a high-resolution preview of the dashboard  
 
-Clientes.csv, Pedidos.csv, Produtos.csv, Vendas.csv – Structured datasets used for modeling and analysis
+data/ – Finalized, structured datasets used for modeling and analysis:  
+Clientes.csv – Customer information  
+Pedidos.csv – Order details  
+Produtos.csv – Product catalog  
+Vendas.csv – Sales transactions  
 
-README.md – Project overview, key metrics, and technical learning summary
+README.md – Project overview, key metrics, and technical learning summary  
 
-All files are organized for clarity and impact. This repository showcases both analytical depth and presentation quality.
+---
 
-All files are organized for easy navigation and to highlight both technical execution and presentation quality.
+All files are organized for clarity, consistency, and impact. This repository highlights both analytical depth and presentation quality, making it easy to navigate and evaluate.
 > 🔗 [View the full project on GitHub](https://github.com/GuihJF/Anlise_de_Vendas_PowerBI)
 
 ---
